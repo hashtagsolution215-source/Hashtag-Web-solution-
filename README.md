@@ -70,9 +70,4 @@ Our mission is to enable every business — from startups to enterprises — to 
 ---
 
 ## 🧾 Commit-Style History
-
-```text
-feat: add multilingual company overview and mission statement  
-docs: include contact info, tagline table and official links  
-style: improve layout and badge design for readability  
-refactor: align README with live website content  
+ 
